@@ -1,0 +1,13 @@
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\MainWindow.baml
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\App.g.cs
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\HttpListenerTest_MarkupCompile.cache
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\HttpListenerTest.g.resources
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\HttpListenerTest.Properties.Resources.resources
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\bin\Debug\HttpListenerTest.exe
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\bin\Debug\HttpListenerTest.pdb
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\HttpListenerTest.exe
+D:\Projects\vs2010\HttpListenerTest\HttpListenerTest\obj\x86\Debug\HttpListenerTest.pdb
